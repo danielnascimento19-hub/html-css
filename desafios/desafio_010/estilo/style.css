@@ -105,6 +105,7 @@ main {
 }
 
 main h1 {
+    text-align: center;
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
